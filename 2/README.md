@@ -152,5 +152,5 @@ https://ksnctf.sweetduet.info/
   http://ctfq.sweetduet.info:10080/~q6/
   
 ## 参考文献
-徳丸 浩 「安全なWebアプリケーションの作り方 第2版」
-大垣 靖男 「[完全なSQLインジェクション対策](https://blog.ohgaki.net/complete-sql-injection-counter-measure)」
+* 徳丸 浩 「安全なWebアプリケーションの作り方 第2版」
+* 大垣 靖男 「[完全なSQLインジェクション対策](https://blog.ohgaki.net/complete-sql-injection-counter-measure)」
