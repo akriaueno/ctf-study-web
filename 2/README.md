@@ -105,7 +105,8 @@ Chromeを使っている場合はWeb Developer Toolsを開いて Application>Sto
 ### Cookieの書き換え
 ユーザはCookieを書き換えることもできます。
 [EditThisCookie](http://www.editthiscookie.com/)というツールが有名です。
-またこの資料を作っている時に知ったのですが、ブラウザのコンソールでJavaScriptを動かせばツールを使わなくても簡単に書き換えることができます(https://t-shukujo.com/edit-cookie/)。
+
+またこの資料を作っている時に知ったのですが、ブラウザのコンソールでJavaScriptを動かせばツールを使わなくても簡単に書き換えることができます( https://t-shukujo.com/edit-cookie/ )。
 ``` js
 document.cookie='userid=foo'  // ブラウザで実行
 ```
