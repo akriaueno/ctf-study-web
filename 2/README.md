@@ -76,7 +76,7 @@ SELECT flag FROM user WHERE username="admin" AND password="" OR 1=1--"
 ```
 `password`にパスワードの値ではなくSQLの一部を入力しています。(下記の網掛部分)
 
-SELECT flag FROM user WHERE username="akky" AND password="`" OR 1=1 --`"
+SELECT flag FROM user WHERE username="admin" AND password="`" OR 1=1 --`"
 
 `passowrd=""`の部分は偽となりますが、`1=1`は常に真となるので
 ``` sql
